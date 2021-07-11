@@ -1,0 +1,551 @@
+UNIQUE_ID,PRODUCT_NAME,COMPANY,PRODUCT_TYPE,PRODUCT_CATEGORY,COST_PRICE,SELLING_PRICE,QUANTITY_DEMANDED
+GSK01,A Masks,A,hygiene,mask,160,200,890
+GSK02,"N hand sanitizer,350 ml",N,hygiene,sanitizer,248,400,800
+GSK03,"G Channa Dal, 1kG",G,foodgrains&spices,pulses(dal),162,180,456
+GSK04,"I Organic Raisins,100g",I,Organic food,Dry Fruits,77.14,133,100
+GSK05,S Body oil,S,beauty products,bodycare,494.5,593.4,111
+GSK06,S AloeverS Gel,S,beauty products,bodycare,445.05,534.06,111
+GSK07,"S edible oil,1L",S,foodgrains&spices,edible oil,270,300,360
+GSK08,G Organic Flour 1kg,G,Organic food,Flour,56.84,98,52
+GSK09,"Z Organic Fennel,100 g",Z,Organic food,Whole Spices,56.84,98,27
+GSK10,A mosquitto repellent,A,household,repellents,171,225,353
+GSK11,"Z Dried Cranberries,100g",Z,Packed Food,Dry Fruits,125,143.75,500
+GSK12,"I chocolate flavour Cornflakes, 1kg",I,Packed Food,Dry Fruits,515,592.25,188
+GSK13,"E disinfectant spray,250 ml",E,hygiene,disinfectant,171.76,226,454
+GSK14,"N hair oil,1L",N,hygiene,haircare,450,500,400
+GSK15,A Body oil,A,beauty products,bodycare,516.26,619.512,119
+GSK16,"J Almonds,100g",J,Packed Food,Dry Fruits,70,80.5,544
+GSK17,"Z Organic Red chilly, 100 g",Z,Organic food,Whole Spices,32.48,56,22
+GSK18,"Z Apricots,100g",Z,Packed Food,Dry Fruits,155,178.25,476
+GSK19,A mosquitto coil,A,household,repellents,95,125,353
+GSK20,"Z Organic Walnuts,100g",Z,Packed Food,Dry Fruits,217,249.55,426
+GSK21,"G Cumin, 100 g",G,foodgrains&spices,Whole Spices,38.94,59,541
+GSK22,"M disinfectant spray,250 ml",M,hygiene,disinfectant,172.52,227,452
+GSK23,B Kajal,B,beauty products,eye-makeup,203.82,244.584,292
+GSK24,"Z Organic Hazel Nuts,100g",Z,Organic food,Dry Fruits,354.84,611.8,52
+GSK25,"N strawberry flavour Oats, 1kg",N,Packed Food,Dry Fruits,367,422.05,306
+GSK26,"J Organic Raisins,100g",J,Packed Food,Dry Fruits,70,80.5,544
+GSK27,"G Cheese  Chiplets, 200 g (8 Cubes)",G,dairy products,cheese,181,211,441
+GSK28,"E hand sanitizer,350 ml",E,hygiene,sanitizer,195.3,315,897
+GSK29,"G Organic Peanut , 1 kg",G,Organic food,cereals,162.4,280,52
+GSK30,"Z Organic Almonds,100g",Z,Organic food,Dry Fruits,306.12,527.8,220
+GSK31,"G Cardamom, 100 g",G,foodgrains&spices,Whole Spices,203.94,309,291
+GSK32,"T Red chilly, 100 g",T,foodgrains&spices,Whole Spices,16.5,25,575
+GSK33,"H Fruit Juice  Mango, 2x1.5 L Multipack",H,beverage,fruit juice,168.72,222,355
+GSK34,"Z Almonds,100g",Z,Packed Food,Dry Fruits,75,86.25,540
+GSK35,S perfume,S,beauty products,bodycare,602,722.4,20
+GSK36,B Lip balm,B,beauty products,bodycare,252.2,302.64,221
+GSK37,"T Matar Dal, 1kg",T,foodgrains&spices,pulses(dal),72,80,536
+GSK38,"S Bay Leaf, 100 g",S,foodgrains&spices,Whole Spices,19.8,30,570
+GSK39,"M disinfectant spray,250 ml",M,hygiene,disinfectant,172.52,227,452
+GSK40,"J Organic Figs,100g",J,Organic food,Dry Fruits,357.28,616,38
+GSK41,T Chakki attT 1kg,T,foodgrains&spices,grains,36,49.5,568
+GSK42,S room freshner,S,household,freshners,272.08,358,231
+GSK43,"G chocolate flavour Oats, 1kg",G,Packed Food,Dry Fruits,313,359.95,350
+GSK44,"G Organic Bay Leaf, 100 g",G,Organic food,Whole Spices,40.6,70,22
+GSK45,C facewash,C,beauty products,bodycare,253.08,303.696,245
+GSK46,"Z Organic Ginger Candies,100g",Z,Packed Food,Dry Fruits,137,157.55,490
+GSK47,"J Organic Walnuts,100g",J,Packed Food,Dry Fruits,210,241.5,432
+GSK48,"N rice bran oil,1L",N,foodgrains&spices,edible oil,230.4,256,395
+GSK49,A orange lipstick,A,beauty products,lipstick,537.5,645,23
+GSK50,"Z Organic Bay Leaf, 100 g",Z,Organic food,Whole Spices,48.72,84,10
+GSK51,"I Dates,100g",I,Packed Food,Dry Fruits,133,152.95,494
+GSK52,"C Quick Washer Gel,1L",C,household,detergent,268.28,353,350
+GSK53,"S Groundnut, 1kg",S,foodgrains&spices,cereals,225,250,400
+GSK54,"I Organic Walnuts,100g",I,Packed Food,Dry Fruits,215,247.25,428
+GSK55,"I Organic Figs,100g",I,Organic food,Dry Fruits,361.34,623,22
+GSK56,"Z Figs,100g",Z,Packed Food,Dry Fruits,185,212.75,452
+GSK57,"S Coriander, 100 g",S,foodgrains&spices,Powdered Spices,19.8,30,570
+GSK58,"N orange flavour Cornflakes, 1kg",N,Packed Food,Dry Fruits,527,606.05,178
+GSK59,"Z Organic Dates,100g",Z,Organic food,Dry Fruits,273.64,471.8,22
+GSK60,"Z Walnuts,100g",Z,Packed Food,Dry Fruits,185,212.75,452
+GSK61,"J Organic Figs,100g",J,Packed Food,Dry Fruits,220,253,424
+GSK62,"J Organic Walnuts,100g",J,Organic food,Dry Fruits,349.16,602,23
+GSK63,"G Fennel,100 g",G,foodgrains&spices,Whole Spices,32.34,49,551
+GSK64,"J chocolate flavour Oats, 1kg",J,Packed Food,Dry Fruits,310,356.5,352
+GSK65,B 3ply mask,B,hygiene,mask,12.8,16,1080
+GSK66,"A disinfectant spray,250 ml",A,hygiene,disinfectant,167.2,220,450
+GSK67,"C disinfectant spray,250 ml",C,hygiene,disinfectant,169.48,223,455
+GSK68,"S Peanut , 1 kg",S,foodgrains&spices,cereals,135,150,480
+GSK69,B perfume,B,beauty products,bodycare,602,722.4,20
+GSK70,"I Organic Raisins,100g",I,Packed Food,Dry Fruits,75,86.25,540
+GSK71,Z Organic Soyabean 1kg,Z,Organic food,cereals,292.32,504,22
+GSK72,A baby milk,A,baby product,babycare,500.8,626,100
+GSK73,"G Rice,1kG",G,foodgrains&spices,rice,63,66.15,644
+GSK74,G Barley 1kG,G,foodgrains&spices,grains,94.5,105,516
+GSK75,B baby diapers,B,baby product,babycare,536,670,300
+GSK76,S brown lipstick,S,beauty products,lipstick,516,619.2,20
+GSK77,"G Rajma, 1kG",G,foodgrains&spices,cereals,162,180,456
+GSK78,S PRO ACTIVE health drink  2x400 g Multipack,S,beverage,healthdrink,912,1200,20
+GSK79,G pet food,G,pet food,pet food,450,500,200
+GSK80,S orange nailpolish,S,beauty products,nailpolish,401.6,481.92,110
+GSK81,"T jowar, 1kg",T,foodgrains&spices,cereals,63,70,544
+GSK82,"I Organic Hazel Nuts,100g",I,Organic food,Dry Fruits,353.22,609,80
+GSK83,D Masks,D,hygiene,mask,280,350,600
+GSK84,A perfume,A,beauty products,bodycare,623.5,748.2,45
+GSK85,"G Bay Leaf, 100 g",G,foodgrains&spices,Whole Spices,25.74,39,561
+GSK86,T Flour 1kg,T,foodgrains&spices,Flour,45,50,560
+GSK87,A baby diapers,A,baby product,babycare,500.8,626,150
+GSK88,"Z Organic Cloves, 100 g",Z,Organic food,Whole Spices,97.44,168,90
+GSK89,A Eyeliner,A,beauty products,eye-makeup,219.56,263.472,212
+GSK90,"I Organic Cashew Nuts,100g",I,Organic food,Dry Fruits,312.62,539,22
+GSK91,S red nailpolish,S,beauty products,nailpolish,401.6,481.92,110
+GSK92,B sanitary napkins,B,beauty products,bodycare,86,103.2,120
+GSK93,"N chocolate flavour Oats, 1kg",N,Packed Food,Dry Fruits,317,364.55,346
+GSK94,"Z Dates,100g",Z,Packed Food,Dry Fruits,155,178.25,476
+GSK95,"G Corn flour,100g",G,foodgrains&spices,corn flour,19,25,150
+GSK96,B bodyspray,B,beauty products,bodycare,387,464.4,180
+GSK97,B Toothbrush,B,hygiene,oral care,180.12,237,342
+GSK98,"I strawberry flavour Oats, 1kg",I,Packed Food,Dry Fruits,365,419.75,308
+GSK99,"B Toothpaste, 100g",B,hygiene,oral care,117.8,155,333
+GSK100,"J Organic Hazel Nuts,100g",J,Packed Food,Dry Fruits,230,264.5,350
+GSK101,"I Organic Almonds,100g",I,Packed Food,Dry Fruits,155,178.25,476
+GSK102,G Chakki attG 1kG,G,foodgrains&spices,grains,45,47.25,560
+GSK103,"E Fruit juice apple Flavour, 2x1 L Multipack",E,beverage,fruit juice,278.16,366,223
+GSK104,"B disinfectant spray,250 ml",B,hygiene,disinfectant,171,225,454
+GSK105,"Z Organic Chola Dal, 1kg",Z,Organic food,pulses(dal),129.92,224,20
+GSK106,"Z Organic Ginger Candies,100g",Z,Organic food,Dry Fruits,273.64,471.8,20
+GSK107,"S Moong Dal, 1kg",S,foodgrains&spices,pulses(dal),63,70,544
+GSK108,"Z Organic Raisins,100g",Z,Organic food,Dry Fruits,73.08,126,52
+GSK109,"T Coriander, 100 g",T,foodgrains&spices,Powdered Spices,23.1,35,565
+GSK110,"I Organic Dried Cranberries,100g",I,Organic food,Dry Fruits,288.26,497,90
+GSK111,"A soft drink litchi flavour, 1L",A,beverage,soft drinks,72.2,95,302
+GSK112,"G Coriander, 100 g",G,foodgrains&spices,Powdered Spices,25.74,39,561
+GSK113,"Z Organic Matar Dal, 1kg",Z,Organic food,pulses(dal),81.2,140,22
+GSK114,"I Organic Walnuts,100g",I,Organic food,Dry Fruits,353.22,609,27
+GSK115,B mosquitto repellent,B,household,repellents,180.12,237,342
+GSK116,"G strawberry flavour Oats, 1kg",G,Packed Food,Dry Fruits,363,417.45,310
+GSK117,"D dishwash bar,100 g",D,household,dishwasher,49.4,65,423
+GSK118,"T Cardamom, 100 g",T,foodgrains&spices,Whole Spices,201.3,305,295
+GSK119,"B soft drink litchi flavour, 1L",B,beverage,soft drinks,117.8,155,222
+GSK120,"Z Organic Channa Dal, 1kg",Z,Organic food,pulses(dal),89.32,154,62
+GSK121,"T Turmeric, 100 g",T,foodgrains&spices,Powdered Spices,23.1,35,565
+GSK122,"G Organic Turmeric, 100 g",G,Organic food,Powdered Spices,40.6,70,26
+GSK123,"Z Organic Dried Cranberries,100g",Z,Packed Food,Dry Fruits,157,180.55,474
+GSK124,"T ChannT Dal, 1kg",T,foodgrains&spices,pulses(dal),162,180,456
+GSK125,S mosquitto spray,S,household,repellents,218.88,288,311
+GSK126,"N sugar,1kg",N,foodgrains&spices,sugar&salt,66,69.3,300
+GSK127,B Bodywash,B,beauty products,bodycare,203.68,244.416,321
+GSK128,A red lipstick,A,beauty products,lipstick,537.5,645,18
+GSK129,"B soft drink orange flavour, 1L",B,beverage,soft drinks,117.8,155,222
+GSK130,"T Kalonji,100 g",T,foodgrains&spices,Whole Spices,36.3,55,545
+GSK131,B Masks,B,hygiene,mask,200,250,800
+GSK132,B Eyeliner,B,beauty products,eye-makeup,252.2,302.64,221
+GSK133,"I Organic Ginger Candies,100g",I,Packed Food,Dry Fruits,135,155.25,492
+GSK134,"Z Organic Toor Dal, 1kg",Z,Organic food,pulses(dal),154.28,266,55
+GSK135,"G Organic Coriander, 100 g",G,Organic food,Powdered Spices,40.6,70,25
+GSK136,B Hair oil,B,beauty products,haircare,450,540,101
+GSK137,"I Cashew Nuts,100g",I,Packed Food,Dry Fruits,153,175.95,478
+GSK138,A blue nailpolish,A,beauty products,nailpolish,404.9,485.88,111
+GSK139,B brown lipstick,B,beauty products,lipstick,576.2,691.44,10
+GSK140,A 3ply mask,A,hygiene,mask,12,15,1100
+GSK141,"A soft drink  coke, 1L",A,beverage,soft drinks,72.2,95,302
+GSK142,"J Walnuts,100g",J,Packed Food,Dry Fruits,180,207,456
+GSK143,T Soyabean 1kg,T,foodgrains&spices,cereals,216,240,408
+GSK144,S orange lipstick,S,beauty products,lipstick,516,619.2,14
+GSK145,S Moisturizer,S,beauty products,bodycare,553.84,664.608,81
+GSK146,"J Organic Raisins,100g",J,Organic food,Dry Fruits,77.14,133,52
+GSK147,"S Red chilly powder, 100 g",S,foodgrains&spices,Powdered Spices,33,50,200
+GSK148,"D disinfectant spray,250 ml",D,hygiene,disinfectant,171,225,454
+GSK149,B Body oil,B,beauty products,bodycare,548.9,658.68,91
+GSK150,A deodorant,A,beauty products,bodycare,279.5,335.4,201
+GSK151,"I Organic Dates,100g",I,Organic food,Dry Fruits,272.02,469,20
+GSK152,G Organic Barley 1kg,G,Organic food,grains,97.44,168,30
+GSK153,"G Organic Tamarind, 100 g",G,Organic food,Whole Spices,48.72,84,70
+GSK154,"G Organic Matar Dal, 1kg",G,Organic food,pulses(dal),73.08,126,125
+GSK155,S Soap,S,beauty products,bodycare,151.24,181.488,301
+GSK156,"S handwash, 750 ml",S,hygiene,handwash,196.08,258,551
+GSK157,G Soyabean 1kG,G,foodgrains&spices,cereals,225,250,400
+GSK158,"H Fruit Juice  Litchi, 3x1 L Multipack ",H,beverage,fruit juice,243.96,321,255
+GSK159,A pink nailpolish,A,beauty products,nailpolish,404.9,485.88,111
+GSK160,A Aloevera Gel,A,beauty products,bodycare,447.03,536.436,110
+GSK161,"S jowar, 1kg",S,foodgrains&spices,cereals,63,70,544
+GSK162,Z pet food,Z,pet food,pet food,450,500,200
+GSK163,S Dishwasher Gel 2L,S,household,dishwasher,277.4,365,223
+GSK164,A orange nailpolish,A,beauty products,nailpolish,404.9,485.88,111
+GSK165,"J Raisins,100g",J,Packed Food,Dry Fruits,40,46,568
+GSK166,S mosquitto repellent,S,household,repellents,218.88,288,311
+GSK167,"G Red chilly, 100 g",G,foodgrains&spices,Whole Spices,19.14,29,571
+GSK168,"T Rajma, 1kg",T,foodgrains&spices,cereals,153,170,464
+GSK169,A sanitary napkins,A,beauty products,bodycare,107.5,129,101
+GSK170,S baby milk,S,baby product,babycare,480,600,300
+GSK171,"G Matar Dal, 1kG",G,foodgrains&spices,pulses(dal),81,90,528
+GSK172,D Soap,D,beauty products,bodycare,95,114,353
+GSK173,"E handwash, 750 ml",E,hygiene,handwash,194.56,256,555
+GSK174,A Moisturizer,A,beauty products,bodycare,555.82,666.984,82
+GSK175,"I Apricots,100g",I,Packed Food,Dry Fruits,133,152.95,494
+GSK176,"Z Organic Cumin, 100 g",Z,Organic food,Whole Spices,73.08,126,52
+GSK177,S green nailpolish,S,beauty products,nailpolish,401.6,481.92,110
+GSK178,A beauty Powder,A,beauty products,bodycare,193.5,232.2,101
+GSK179,"S Red chilly, 100 g",S,foodgrains&spices,Whole Spices,13.2,20,580
+GSK180,"J Organic Dried Cranberries,100g",J,Organic food,Dry Fruits,284.2,490,55
+GSK181,"G Organic Chola Dal, 1kg",G,Organic food,pulses(dal),113.68,196,7
+GSK182,"E soft drink  coke, 1L",E,beverage,soft drinks,72.96,96,302
+GSK183,"J Organic Ginger Candies,100g",J,Packed Food,Dry Fruits,130,149.5,496
+GSK184,"G Tamarind, 100 g",G,foodgrains&spices,Whole Spices,32.34,49,551
+GSK185,"M disinfectant liquid, 1L",M,hygiene,disinfectant,339.72,447,142
+GSK186,S red lipstick,S,beauty products,lipstick,516,619.2,15
+GSK187,D facewash,D,beauty products,bodycare,163.4,196.08,353
+GSK188,"N strawberry flavour Cornflakes, 1kg",N,Packed Food,Dry Fruits,567,652.05,146
+GSK189,"S disinfectant spray,250 ml",S,hygiene,disinfectant,173.28,228,451
+GSK190,"M handwash, 500 ml",M,hygiene,handwash,195.32,257,552
+GSK191,"Z Organic Figs,100g",Z,Organic food,Dry Fruits,362.96,625.8,65
+GSK192,"Z Organic Groundnut, 1kg",Z,Organic food,cereals,308.56,532,22
+GSK193,"I Walnuts,100g",I,Packed Food,Dry Fruits,183,210.45,454
+GSK194,"I Organic Hazel Nuts,100g",I,Packed Food,Dry Fruits,235,270.25,412
+GSK195,"G G roundnut, 1kG",G,foodgrains&spices,cereals,234,260,392
+GSK196,"E soft drink litchi flavour, 1L",E,beverage,soft drinks,72.96,96,302
+GSK197,"S Pasteurised butter, 500 g Carton",S,dairy products,butter,270,300,360
+GSK198,A Toothbrush,A,hygiene,oral care,171,225,353
+GSK199,"Z Organic Tamarind, 100 g",Z,Organic food,Whole Spices,56.84,98,20
+GSK200,"C Front load Detergent, 2 kg",C,household,detergent,490.2,645,180
+GSK201,"S Turmeric, 100 g",S,foodgrains&spices,Powdered Spices,19.8,30,570
+GSK202,"J orange flavour Oats, 1kg",J,Packed Food,Dry Fruits,320,368,344
+GSK203,"N mustard oil,1L",N,foodgrains&spices,edible oil,220.5,245,404
+GSK204,"G Organic  Red chilly powder, 100 g",G,Organic food,Powdered Spices,56.84,98,25
+GSK205,"A Chocolate Drink, 2x500 g (Multipack)",A,beverage,healthdrink,380,500,150
+GSK206,"C Fabric Care Wash, 1.5kg",C,household,detergent,329.08,433,200
+GSK207,"G Organic Cardamom, 100 g",G,Organic food,Whole Spices,259.84,448,2
+GSK208,S pink nailpolish,S,beauty products,nailpolish,401.6,481.92,110
+GSK209,"C hand sanitizer,350 ml",C,hygiene,sanitizer,136.4,220,990
+GSK210,S blue nailpolish,S,beauty products,nailpolish,401.6,481.92,110
+GSK211,A Hair oil,A,beauty products,haircare,417.36,500.832,122
+GSK212,"Z Ginger Candies,100g",Z,Packed Food,Dry Fruits,155,178.25,476
+GSK213,"A Toothpaste, 100g",A,hygiene,oral care,72.2,95,403
+GSK214,"G Organic Fennel,100 g",G,Organic food,Whole Spices,48.72,84,25
+GSK215,A Body Lotion,A,beauty products,bodycare,279.5,335.4,201
+GSK216,"T CholT Dal, 1kg",T,foodgrains&spices,pulses(dal),108,120,504
+GSK217,D 3ply mask,D,hygiene,mask,14.4,18,1020
+GSK218,"J Apricots,100g",J,Packed Food,Dry Fruits,100,115,400
+GSK219,"J Organic Dates,100g",J,Organic food,Dry Fruits,267.96,462,87
+GSK220,"T Red chilly powder, 100 g",T,foodgrains&spices,Powdered Spices,36.3,55,545
+GSK221,A pink lipstick,A,beauty products,lipstick,537.5,645,101
+GSK222,"N white oil ,1L",N,foodgrains&spices,edible oil,270,300,360
+GSK223,"H handwash, 750 ml",H,hygiene,handwash,191.52,252,555
+GSK224,"T Tamarind, 100 g",T,foodgrains&spices,Whole Spices,29.7,45,555
+GSK225,S PRO ACTIVE health drink  2x400 g Multipack,S,beverage,healthdrink,912,1200,10
+GSK226,"Z Organic Cardamom, 100 g",Z,Organic food,Whole Spices,276.08,476,6
+GSK227,"G chocolate flavour Cornflakes, 1kg",G,Packed Food,Dry Fruits,513,589.95,190
+GSK228,C 3ply mask,C,hygiene,mask,13.6,17,1050
+GSK229,"S Rajma, 1kg",S,foodgrains&spices,cereals,153,170,464
+GSK230,B facewash,B,beauty products,bodycare,162.64,195.168,354
+GSK231,"J Cashew Nuts,100g",J,Packed Food,Dry Fruits,150,172.5,480
+GSK232,"J Organic Cashew Nuts,100g",J,Packed Food,Dry Fruits,180,207,456
+GSK233,"I Organic Apricots,100g",I,Organic food,Dry Fruits,280.14,483,22
+GSK234,S Body Lotion,S,beauty products,bodycare,258,309.6,220
+GSK235,"S Baby Pink Shampoo, 650 ml Bottle",S,beauty products,haircare,338.96,406.752,133
+GSK236,B orange lipstick,B,beauty products,lipstick,576.2,691.44,10
+GSK237,S Toothbrush,S,hygiene,oral care,101.84,134,344
+GSK238,"J Ginger Candies,100g",J,Packed Food,Dry Fruits,100,115,520
+GSK239,S 3ply mask,S,hygiene,mask,16,20,989
+GSK240,S mosquitto coil,S,household,repellents,142.88,188,311
+GSK241,B aftershave,B,beauty products,bodycare,247.25,296.7,221
+GSK242,"S Matar Dal, 1kg",S,foodgrains&spices,pulses(dal),72,80,536
+GSK243,"I Hazel Nuts,100g",I,Packed Food,Dry Fruits,233,267.95,380
+GSK244,"J Organic Apricots,100g",J,Packed Food,Dry Fruits,120,138,504
+GSK245,A Masks,A,hygiene,mask,260,325,632
+GSK246,"I Organic Apricots,100g",I,Packed Food,Dry Fruits,125,143.75,500
+GSK247,"N orange flavour Oats, 1kg",N,Packed Food,Dry Fruits,327,376.05,338
+GSK248,"Z Organic Walnuts,100g",Z,Organic food,Dry Fruits,354.84,611.8,76
+GSK249,"G hand sanitizer,350 ml",G,hygiene,sanitizer,133.3,215,997
+GSK250,"S soft drink orange flavour, 1L",S,beverage,soft drinks,68.4,90,310
+GSK251,"J Organic Hazel Nuts,100g",J,Organic food,Dry Fruits,349.16,602,56
+GSK252,"M disinfectant spray,250 ml",M,hygiene,disinfectant,172.52,227,452
+GSK253,"G Pasteurised butter, 500 g Carton",G,dairy products,butter,271,311,361
+GSK254,B beauty Powder,B,beauty products,bodycare,203.82,244.584,292
+GSK255,A 3ply mask,A,hygiene,mask,16,20,990
+GSK256,S Eyeliner,S,beauty products,eye-makeup,197.8,237.36,100
+GSK257,"S baby corn, 100g",G,foodgrains&spices,grains,50,65,200
+GSK258,S beauty Powder,S,beauty products,bodycare,172,206.4,120
+GSK259,"T Bay Leaf, 100 g",T,foodgrains&spices,Whole Spices,23.1,35,565
+GSK260,"G orange flavour Cornflakes, 1kg",G,Packed Food,Dry Fruits,523,601.45,182
+GSK261,"Z Organic Cashew Nuts,100g",Z,Organic food,Dry Fruits,314.24,541.8,20
+GSK262,"B hand sanitizer,350 ml",B,hygiene,sanitizer,130.2,210,990
+GSK263,"B handwash, 750 ml",B,hygiene,handwash,193.8,255,555
+GSK264,B mosquitto coil,B,household,repellents,117.8,155,333
+GSK265,"I chocolate flavour Oats, 1kg",I,Packed Food,Dry Fruits,315,362.25,348
+GSK266,B blue nailpolish,B,beauty products,nailpolish,407.62,489.144,112
+GSK267,A room freshner,A,household,freshners,266,350,230
+GSK268,"G Organic Rice,1kg",G,Organic food,rice,56.84,98,90
+GSK269,"S soft drink litchi flavour, 1L",S,beverage,soft drinks,68.4,90,310
+GSK270,"A hand sanitizer,350 ml",A,hygiene,sanitizer,124,200,980
+GSK271,"T Rice,1kg",T,foodgrains&spices,rice,67.5,70.88,640
+GSK272,S Body Creme,S,beauty products,bodycare,258,309.6,220
+GSK273,"S Toor Dal, 1kg",S,foodgrains&spices,pulses(dal),153,170,464
+GSK274,"C dishwash bar,100 g",C,household,dishwasher,47.88,63,425
+GSK275,"Z Raisins,100g",Z,Packed Food,Dry Fruits,45,51.75,564
+GSK276,A mosquitto spray,A,household,repellents,171,225,353
+GSK277,B Masks,B,hygiene,mask,269.6,337,515
+GSK278,C Soap,C,beauty products,bodycare,177.08,212.496,345
+GSK279,"Z Organic jowar, 1kg",Z,Organic food,cereals,73.08,126,70
+GSK280,"C handwash, 750 ml",C,hygiene,handwash,192.28,253,555
+GSK281,S pet food,S,pet food,pet food,460,514,191
+GSK282,"T Bajra, 1kg",T,foodgrains&spices,cereals,54,60,552
+GSK283,"G Peanut , 1 kG",G,foodgrains&spices,cereals,144,160,472
+GSK284,"G Cloves, 100 g",G,foodgrains&spices,Whole Spices,71.94,109,491
+GSK285,B Hair gel,B,beauty products,haircare,257.14,308.568,221
+GSK286,H pet food,H,pet food,pet food,460,514,190
+GSK287,"G Organic Channa Dal, 1kg",G,Organic food,pulses(dal),154.28,266,2
+GSK288,A green nailpolish,A,beauty products,nailpolish,404.9,485.88,50
+GSK289,"G Organic Rajma, 1kg",G,Organic food,cereals,146.16,252,55
+GSK290,G Organic Soyabean 1kg,G,Organic food,cereals,203,350,45
+GSK291,"T Moong Dal, 1kg",T,foodgrains&spices,pulses(dal),63,70,544
+GSK292,"Z Organic Moon Dal, 1kg",Z,Organic food,pulses(dal),73.08,126,262
+GSK293,"Z Organic Coriander, 100 g",Z,Organic food,Powdered Spices,48.72,84,52
+GSK294,S Hair oil,S,beauty products,haircare,395.6,474.72,200
+GSK295,"Z Organic Cashew Nuts,100g",Z,Packed Food,Dry Fruits,187,215.05,256
+GSK296,"I Organic Dates,100g",I,Packed Food,Dry Fruits,135,155.25,492
+GSK297,"A Shine Shampoo, 180 ml",A,beauty products,haircare,152,182.4,300
+GSK298,S Masks,S,hygiene,mask,240,300,590
+GSK299,B red lipstick,B,beauty products,lipstick,576.2,691.44,10
+GSK300,E pet food,E,pet food,pet food,450,500,200
+GSK301,"J chocolate flavour Cornflakes, 1kg",J,Packed Food,Dry Fruits,510,586.5,192
+GSK302,"G Kalonji,100 g",G,foodgrains&spices,Whole Spices,38.94,59,541
+GSK303,S Chakki attS 1kg,S,foodgrains&spices,grains,36,39.6,650
+GSK304,"Z Organic  Red chilly powder, 100 g",Z,Organic food,Powdered Spices,73.08,126,39
+GSK305,"H Fruit Juice  Mango Flavour, 2x1 L Multipack",H,beverage,fruit juice,244.72,322,255
+GSK306,B Moisturizer,B,beauty products,bodycare,558.79,670.548,80
+GSK307,Z Organic Flour 1kg,Z,Organic food,Flour,64.96,112,78
+GSK308,"G Organic Cloves, 100 g",G,Organic food,Whole Spices,89.32,154,58
+GSK309,A bodyspray,A,beauty products,bodycare,365.5,438.6,201
+GSK310,"Z Organic Almonds,100g",Z,Packed Food,Dry Fruits,177,203.55,458
+GSK311,"Z Organic Raisins,100g",Z,Packed Food,Dry Fruits,77,88.55,538
+GSK312,"M disinfectant spray,250 ml",M,hygiene,disinfectant,172.52,227,452
+GSK313,"G jowar, 1kG",G,foodgrains&spices,cereals,36,40,568
+GSK314,"S Corn flour,100g",S,foodgrains&spices,corn flour,20,26.2,125
+GSK315,"S Dairy Whitener , 1 kg Souch",S,dairy products,milk,540,600,120
+GSK316,A Health &Nutrition  Drink 500 g Carton,A,beverage,healthdrink,380,500,150
+GSK317,"S soft drink  coke, 1L",S,beverage,soft drinks,68.4,90,310
+GSK318,"G strawberry flavour Cornflakes, 1kg",G,Packed Food,Dry Fruits,563,647.45,190
+GSK319,"S CheesS  Slices, 100 g Souch",E,dairy products,cheese,90,100,520
+GSK320,"J Organic Dried Cranberries,100g",J,Packed Food,Dry Fruits,150,172.5,480
+GSK321,"G Bajra, 1kG",G,foodgrains&spices,cereals,63,70,544
+GSK322,"S Nutrition & Health Drink Royale  Chocolate, 1 kg Carton",S,beverage,healthdrink,531.24,699,30
+GSK323,S Kajal,S,beauty products,eye-makeup,172,206.4,120
+GSK324,"T Groundnut, 1kg",T,foodgrains&spices,cereals,216,240,408
+GSK325,A Body Creme,A,beauty products,bodycare,279.5,335.4,201
+GSK326,"J Organic Cashew Nuts,100g",J,Organic food,Dry Fruits,308.56,532,32
+GSK327,"T Fennel,100 g",T,foodgrains&spices,Whole Spices,29.7,45,555
+GSK328,"M handwash, 750 ml",M,hygiene,handwash,195.32,257,552
+GSK329,S bodyspray,S,beauty products,bodycare,387,464.4,180
+GSK330,B Foundation,B,beauty products,bodycare,548.9,658.68,91
+GSK331,D Bodywash,D,beauty products,bodycare,239.4,287.28,253
+GSK332,"I Organic Figs,100g",I,Packed Food,Dry Fruits,225,258.75,420
+GSK333,B pink nailpolish,B,beauty products,nailpolish,407.62,489.144,112
+GSK334,"J Dates,100g",J,Packed Food,Dry Fruits,100,115,520
+GSK335,"S Masoor Dal, 1kg",S,foodgrains&spices,pulses(dal),108,120,504
+GSK336,B 3ply mask,B,hygiene,mask,16,20,971
+GSK337,"Z Organic Kalonji,100 g",Z,Organic food,Whole Spices,73.08,126,29
+GSK338,"G Organic Toor Dal, 1kg",G,Organic food,pulses(dal),146.16,252,30
+GSK339,"Z Organic Rajma, 1kg",Z,Organic food,cereals,154.28,266,25
+GSK340,"N olive oil,1L",N,foodgrains&spices,edible oil,630,700,40
+GSK341,"I orange flavour Oats, 1kg",I,Packed Food,Dry Fruits,325,373.75,340
+GSK342,"E soft drink orange flavour, 1L",E,beverage,soft drinks,72.96,96,302
+GSK343,"G Organic Red chilly, 100 g",G,Organic food,Whole Spices,32.48,56,20
+GSK344,"Z Hazel Nuts,100g",Z,Packed Food,Dry Fruits,255,293.25,396
+GSK345,"Z Organic Apricots,100g",Z,Organic food,Dry Fruits,281.76,485.8,94
+GSK346,"N salt,1kg",N,foodgrains&spices,sugar&salt,13.2,13.86,380
+GSK347,"J Organic Apricots,100g",J,Organic food,Dry Fruits,276.08,476,67
+GSK348,"J Dried Cranberries,100g",J,Packed Food,Dry Fruits,120,138,504
+GSK349,B brown nailpolish,B,beauty products,nailpolish,407.62,489.144,112
+GSK350,"G Organic Groundnut, 1kg",G,Organic food,cereals,219.24,378,35
+GSK351,S Hair gel,S,beauty products,haircare,237.36,284.832,212
+GSK352,"I Figs,100g",I,Packed Food,Dry Fruits,183,210.45,454
+GSK353,"S Rice,1kg",S,foodgrains&spices,rice,54,56.7,662
+GSK354,"S Toothpaste, 100g",S,hygiene,oral care,57.76,76,413
+GSK355,"N chocolate flavour Cornflakes, 1kg",N,Packed Food,Dry Fruits,517,594.55,186
+GSK356,B Soap,B,beauty products,bodycare,87.4,104.88,353
+GSK357,"I Organic Dried Cranberries,100g",I,Packed Food,Dry Fruits,155,178.25,476
+GSK358,"I Ginger Candies,100g",I,Packed Food,Dry Fruits,133,152.95,494
+GSK359,B baby milk,B,baby product,babycare,536,670,200
+GSK360,"I orange flavour Cornflakes, 1kg",I,Packed Food,Dry Fruits,525,603.75,180
+GSK361,"T Peanut , 1 kg",T,foodgrains&spices,cereals,135,150,480
+GSK362,B red nailpolish,B,beauty products,nailpolish,407.62,489.144,112
+GSK363,Z Organic Chakki atta 1kg,Z,Organic food,grains,48.72,84,80
+GSK364,"S Channa Dal, 1kg",S,foodgrains&spices,pulses(dal),162,180,456
+GSK365,"S Bajra, 1kg",S,foodgrains&spices,cereals,54,60,552
+GSK366,S Foundation,S,beauty products,bodycare,494.5,593.4,111
+GSK367,B pink lipstick,B,beauty products,lipstick,576.2,691.44,10
+GSK368,B deodorant,B,beauty products,bodycare,289.82,347.784,292
+GSK369,"G Organic Kalonji,100 g",G,Organic food,Whole Spices,56.84,98,52
+GSK370,"S Fennel,100 g",S,foodgrains&spices,Whole Spices,26.4,40,560
+GSK371,"Z Organic Hazel Nuts,100g",Z,Packed Food,Dry Fruits,237,272.55,356
+GSK372,"S hand sanitizer,350 ml",S,hygiene,sanitizer,257.3,415,797
+GSK373,"J Organic Dates,100g",J,Packed Food,Dry Fruits,130,149.5,496
+GSK374,"S Baby Pink Shampoo, 1LBottle",S,beauty products,haircare,338.96,406.752,133
+GSK375,"B, 500 ml",B,beauty products,haircare,345.8,414.96,133
+GSK376,"J Organic Almonds,100g",J,Packed Food,Dry Fruits,100,115,520
+GSK377,"S Cloves, 100 g",S,foodgrains&spices,Whole Spices,66,100,500
+GSK378,"S disinfectant liquid, 1L",S,hygiene,disinfectant,323,425,154
+GSK379,A Foundation,A,beauty products,bodycare,516.26,619.512,119
+GSK380,S deodorant,S,beauty products,bodycare,258,309.6,220
+GSK381,"S Tamarind, 100 g",S,foodgrains&spices,Whole Spices,26.4,40,560
+GSK382,"I Organic Cashew Nuts,100g",I,Packed Food,Dry Fruits,185,212.75,452
+GSK383,"Z Organic Figs,100g",Z,Packed Food,Dry Fruits,227,261.05,418
+GSK384,"J orange flavour Cornflakes, 1kg",J,Packed Food,Dry Fruits,520,598,184
+GSK385,"S Kalonji,100 g",S,foodgrains&spices,Whole Spices,33,50,550
+GSK386,"I Organic Ginger Candies,100g",I,Organic food,Dry Fruits,272.02,469,22
+GSK387,D Dishwasher Gel 2L,D,household,dishwasher,399,525,153
+GSK388,"I Raisins,100g",I,Packed Food,Dry Fruits,43,49.45,566
+GSK389,"J Organic Ginger Candies,100g",J,Organic food,Dry Fruits,267.96,462,50
+GSK390,S sanitary napkins,S,beauty products,bodycare,86,103.2,120
+GSK391,A Soap,A,beauty products,bodycare,68.4,82.08,410
+GSK392,"S sugar,1kg",S,foodgrains&spices,sugar&salt,79.2,83.16,299
+GSK393,"I Dried Cranberries,100g",I,Packed Food,Dry Fruits,123,141.45,502
+GSK394,"I strawberry flavour Cornflakes, 1kg",I,Packed Food,Dry Fruits,565,649.75,148
+GSK395,S Washing Powder 4kg,S,household,detergent,598.88,788,80
+GSK396,"T Toor Dal, 1kg",T,foodgrains&spices,pulses(dal),153,170,464
+GSK397,C Bodywash,C,beauty products,bodycare,329.08,394.896,145
+GSK398,"G Masoor Dal, 1kG",G,foodgrains&spices,pulses(dal),112.5,125,500
+GSK399,"T Cloves, 100 g",T,foodgrains&spices,Whole Spices,69.3,105,495
+GSK400,S facewash,S,beauty products,bodycare,227.24,272.688,301
+GSK401,"S Cheese  Chiplets, 200 g (8 Cubes)",S,dairy products,cheese,180,200,440
+GSK402,"J strawberry flavour Oats, 1kg",J,Packed Food,Dry Fruits,360,414,312
+GSK403,"G Organic Moon Dal, 1kg",G,Organic food,pulses(dal),64.96,112,22
+GSK404,"G Toor Dal, 1kG",G,foodgrains&spices,pulses(dal),166.5,185,452
+GSK405,"T Cumin, 100 g",T,foodgrains&spices,Whole Spices,36.3,55,545
+GSK406,A Bodywash,A,beauty products,bodycare,174.8,209.76,350
+GSK407,"G baby corn, 100g",G,foodgrains&spices,grains,45,55,250
+GSK408,"Z Organic Dried Cranberries,100g",Z,Organic food,Dry Fruits,289.88,499.8,70
+GSK409,S baby diapers,S,baby product,babycare,480,600,250
+GSK410,"G CheesG  Slices, 100 g Souch",G,dairy products,cheese,91,111,521
+GSK411,"G MoonG Dal, 1kG",G,foodgrains&spices,pulses(dal),72,80,536
+GSK412,S pink lipstick,S,beauty products,lipstick,516,619.2,30
+GSK413,S Soyabean 1kg,S,foodgrains&spices,cereals,216,240,408
+GSK414,"D handwash, 750 ml",D,hygiene,handwash,193.8,255,555
+GSK415,G Organic Chakki atta 1kg,G,Organic food,grains,48.72,84,60
+GSK416,"Z Organic Peanut , 1 kg",Z,Organic food,cereals,324.8,560,42
+GSK417,"Z Organic Bajra, 1kg",Z,Organic food,cereals,81.2,140,25
+GSK418,"S salt,1kg",S,foodgrains&spices,sugar&salt,19.8,20.79,370
+GSK419,"H hand sanitizer,350 ml",H,hygiene,sanitizer,151.9,245,977
+GSK420,"G Dairy Whitener , 1 kg Souch",G,dairy products,milk,541,611,121
+GSK421,S Bodywash,S,beauty products,bodycare,303.24,363.888,201
+GSK422,E pet food,E,pet food,pet food,450,500,200
+GSK423,"Z Organic Apricots,100g",Z,Packed Food,Dry Fruits,127,146.05,498
+GSK424,"J Organic Almonds,100g",J,Organic food,Dry Fruits,243.6,420,86
+GSK425,G Flour 1kG,G,foodgrains&spices,Flour,54,60,552
+GSK426,T Barley 1kg,T,foodgrains&spices,grains,90,100,520
+GSK427,A facewash,A,beauty products,bodycare,239.4,287.28,253
+GSK428,"B soft drink  coke, 1L",B,beverage,soft drinks,117.8,155,222
+GSK429,"G orange flavour Oats, 1kg",G,Packed Food,Dry Fruits,323,371.45,342
+GSK430,"J strawberry flavour Cornflakes, 1kg",J,Packed Food,Dry Fruits,560,644,348
+GSK431,"G Organic jowar, 1kg",G,Organic food,cereals,64.96,112,50
+GSK432,A brown lipstick,A,beauty products,lipstick,537.5,645,101
+GSK433,S Lip balm,S,beauty products,bodycare,247.25,296.7,221
+GSK434,"G Turmeric, 100 g",G,foodgrains&spices,Powdered Spices,25.74,39,561
+GSK435,Z Organic Barley 1kg,Z,Organic food,grains,113.68,196,40
+GSK436,"I Organic Almonds,100g",I,Organic food,Dry Fruits,288.26,497,52
+GSK437,A Lip balm,A,beauty products,bodycare,249.23,299.076,220
+GSK438,A brown nailpolish,A,beauty products,nailpolish,404.9,485.88,111
+GSK439,A red nailpolish,A,beauty products,nailpolish,404.9,485.88,111
+GSK440,"A handwash, 750 ml",A,hygiene,handwash,190,250,550
+GSK441,"Z Cashew Nuts,100g",Z,Packed Food,Dry Fruits,155,178.25,476
+GSK442,"D hand sanitizer,350 ml",D,hygiene,sanitizer,186,300,900
+GSK443,"G Organic Cumin, 100 g",G,Organic food,Whole Spices,56.84,98,26
+GSK444,"Z Organic Rice,1kg",Z,Organic food,rice,64.96,112,45
+GSK445,B AloeverB Gel,B,beauty products,bodycare,450,540,101
+GSK446,"M disinfectant spray,250 ml",M,hygiene,disinfectant,172.52,227,452
+GSK447,"Z Organic Dates,100g",Z,Packed Food,Dry Fruits,137,157.55,490
+GSK448,S Flour 1kg,S,foodgrains&spices,Flour,45,50,560
+GSK449,"C Smooth & Silky, 650 ml",C,beauty products,haircare,405.08,486.096,145
+GSK450,A Kajal,A,beauty products,eye-makeup,193.5,232.2,300
+GSK451,B Body Lotion,B,beauty products,bodycare,289.82,347.784,292
+GSK452,B mosquitto spray,B,household,repellents,180.12,237,342
+GSK453,"S Cumin, 100 g",S,foodgrains&spices,Whole Spices,33,50,550
+GSK454,"J Hazel Nuts,100g",J,Packed Food,Dry Fruits,200,230,440
+GSK455,"G Organic Bajra, 1kg",G,Organic food,cereals,73.08,126,62
+GSK456,S brown nailpolish,S,beauty products,nailpolish,401.6,481.92,110
+GSK457,A Hair gel,A,beauty products,haircare,247.25,296.7,221
+GSK458,"A Hair Fall Defense Shampoo, 580 ml Bottle",A,beauty products,haircare,380,456,100
+GSK459,C Masks,C,hygiene,mask,240,300,580
+GSK460,"G Red chilly powder, 100 g",G,foodgrains&spices,Powdered Spices,38.94,59,340
+GSK461,S Barley 1kg,S,foodgrains&spices,grains,90,100,540
+GSK462,"S Cardamom, 100 g",S,foodgrains&spices,Whole Spices,198,300,300
+GSK463,"M sanitizer, 500 ml",M,hygiene,sanitizer,372,600,600
+GSK464,"J Figs,100g",J,Packed Food,Dry Fruits,180,207,456
+GSK465,"A soft drink orange flavour, 1L",A,beverage,soft drinks,72.2,95,302
+GSK466,B Body Creme,B,beauty products,bodycare,289.82,347.784,292
+GSK467,B green nailpolish,B,beauty products,nailpolish,407.62,489.144,112
+GSK468,"B hand sanitizer,350 ml",B,hygiene,sanitizer,207.7,335,887
+GSK469,B room freshner,B,household,freshners,269.8,355,233
+GSK470,"Z Organic Turmeric, 100 g",Z,Organic food,Powdered Spices,48.72,84,22
+GSK471,"I Almonds,100g",I,Packed Food,Dry Fruits,73,83.95,542
+GSK472,D Washing Powder 4kg,D,household,detergent,649.8,855,70
+GSK473,B orange nailpolish,B,beauty products,nailpolish,407.62,489.144,112
+GSK474,"D Masala Noodles  Family Sack, 260 g",D,snacks,noodles,63,70,544
+GSK475,S Hot and Sweet Pasta,S,snacks,pasta,270,300,360
+GSK476,"E dark chocolate,100g",E,snacks,chocolate,333,370,304
+GSK477,"E White Chocolate,100g",E,snacks,chips,432,480,216
+GSK478,H Hot and Sweet Pasta,H,snacks,pasta,270,300,360
+GSK479,E Hot and Sweet Pasta,E,snacks,pasta,270,300,360
+GSK480,E Salty chips,E,snacks,chips,43.2,48,562
+GSK481,S toffee,S,snacks,chocolate,270,300,360
+GSK482,E nuggets,E,snacks,nuggets,432,480,216
+GSK483,"E White Chocolate,100g",E,snacks,chocolate,360,400,280
+GSK484,E tomato Chips,E,snacks,chips,43.2,48,562
+GSK485,S tomato Pasta,S,snacks,pasta,180,200,440
+GSK486,S nuggets,S,snacks,nuggets,360,400,280
+GSK487,Z nuggets,Z,snacks,nuggets,360,400,280
+GSK488,G Hot and Sweet Pasta,G,snacks,pasta,180,200,440
+GSK489,Z toffee,Z,snacks,chocolate,18,20,584
+GSK490,S Chilly Chips,S,snacks,chips,36,40,568
+GSK491,E toffee,E,snacks,chocolate,9,10,592
+GSK492,Z tomato Chips,Z,snacks,chips,31.5,35,572
+GSK493,E Chilly Chips,E,snacks,chips,36,40,568
+GSK494,"G White Chocolate,100g",G,snacks,chips,450,500,200
+GSK495,E Hot and Sweet Pasta,E,snacks,pasta,333,370,304
+GSK496,"S dark chocolate,100g",S,snacks,chocolate,180,200,440
+GSK497,Z tomato Pasta,Z,snacks,pasta,149.4,166,467
+GSK498,"E dark chocolate,100g",E,snacks,chocolate,270,300,360
+GSK499,E tomato Chips,E,snacks,chips,36,40,568
+GSK500,Z Hot and Sweet Pasta,Z,snacks,pasta,328.5,365,308
+GSK501,"Z dark chocolate,100g",Z,snacks,chocolate,330.3,367,306
+GSK502,"F Creme Biscuit  Vanilla, Original, 120 g",A,snacks,biscuits,45,50,560
+GSK503,H Chilly Chips,H,snacks,chips,31.5,35,572
+GSK504,H toffee,H,snacks,chocolate,9,10,592
+GSK505,H Salty chips,H,snacks,chips,31.5,35,572
+GSK506,E Salty chips,E,snacks,chips,36,40,568
+GSK507,"S WhitS Chocolate,100g",S,snacks,chips,27,30,576
+GSK508,"Z White Chocolate,100g",Z,snacks,chips,370.8,412,270
+GSK509,G toffee,G,snacks,chocolate,9,10,592
+GSK510,G Chilly Chips,G,snacks,chips,45,50,560
+GSK511,G nuggets,G,snacks,nuggets,450,500,200
+GSK512,G Salty chips,G,snacks,chips,45,50,560
+GSK513,"H dark chocolate,100g",H,snacks,chocolate,270,300,360
+GSK514,G tomato Pasta,G,snacks,pasta,90,100,520
+GSK515,Z Chilly Chips,Z,snacks,chips,31.5,35,572
+GSK516,"H White Chocolate,100g",H,snacks,chips,315,350,320
+GSK517,G tomato Chips,G,snacks,chips,45,50,560
+GSK518,H tomato Pasta,H,snacks,pasta,135,150,480
+GSK519,"N CuSSa Noodles  Masala, 70 g",N,snacks,noodles,72,80,536
+GSK520,"G dark chocolate,100g",G,snacks,chocolate,270,300,360
+GSK521,"S Milk Cookies, 500 g (100 g x 5)",S,snacks,biscuits,180,200,440
+GSK522,E nuggets,E,snacks,nuggets,360,400,280
+GSK523,H nuggets,H,snacks,nuggets,315,350,320
+GSK524,H tomato Chips,H,snacks,chips,31.5,35,572
+GSK525,"B Sweet & Salty Biscuits, 200 g",B,snacks,biscuits,36,40,568
+GSK526,E Chilly Chips,E,snacks,chips,43.2,48,562
+GSK527,E toffee,E,snacks,chocolate,9,10,592
+GSK528,S Salty chips,S,snacks,chips,36,40,568
+GSK529,"C Little Hearts Biscuits, 34.5 g",C,snacks,biscuits,45,50,560
+GSK530,S tomato Chips,S,snacks,chips,36,40,568
+GSK531,H CuP Noodles 55 g,H,snacks,noodles,45,50,560
+GSK532,"A Veg Hakka Noodles, 150 g Souch",A,snacks,noodles,31.5,35,572
+GSK533,E tomato Pasta,E,snacks,pasta,180,200,440
+GSK534,"A Gold Biscuits, 250 g",A,snacks,biscuits,81,90,528
+GSK535,"E Chocolate Cream Biscuits, 150 g",E,snacks,biscuits,40.5,45,564
+GSK536,E tomato Pasta,E,snacks,pasta,180,200,440
+GSK537,Z Salty chips,Z,snacks,chips,31.5,35,572
+GSK538,"A orange jam,300g",A,Spreads&Sauces,Jam,304,400,200
+GSK539,"A mixed fruit  jam,300g",A,Spreads&Sauces,Jam,304,400,200
+GSK540,"G garlic sauce,1L",G,Spreads&Sauces,sauce,337.44,444,134
+GSK541,"G vinegar,1L",G,Spreads&Sauces,sauce,337.44,444,134
+GSK542,"G chilly sauce,1L",G,Spreads&Sauces,sauce,337.44,444,123
+GSK543,"G tomato sauce,1L",G,Spreads&Sauces,sauce,320.72,422,155
+GSK544,"G tomato sauce,1L",G,Spreads&Sauces,sauce,337.44,444,134
+GSK545,"G chilly tango sauce,1L",G,Spreads&Sauces,sauce,337.44,444,134
+GSK546,"A raspberry jam,300g",A,Spreads&Sauces,Jam,304,400,200
+GSK547,"B raspberry jam,300g",B,Spreads&Sauces,Jam,323,425,153
+GSK548,"G red masala sauce,1L",G,Spreads&Sauces,sauce,320.72,422,155
+GSK549,"B mixed fruit jam,300g",B,Spreads&Sauces,Jam,323,425,153
+GSK550,"G tomato sauce,1L",G,Spreads&Sauces,sauce,320.72,422,155
